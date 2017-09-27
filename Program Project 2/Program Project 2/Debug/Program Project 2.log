@@ -1,2 +1,7 @@
 ﻿  Source.cpp
-c:\users\233722\desktop\computer science projects\program project 2\program project 2\source.cpp(29): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\233722\desktop\computer science projects\program project 2\program project 2\source.cpp(27): warning C4101: 'gpa': unreferenced local variable
+c:\users\233722\desktop\computer science projects\program project 2\program project 2\source.cpp(23): warning C4101: 'first_letter': unreferenced local variable
+c:\users\233722\desktop\computer science projects\program project 2\program project 2\source.cpp(21): warning C4101: 'classes': unreferenced local variable
+c:\users\233722\desktop\computer science projects\program project 2\program project 2\source.cpp(25): warning C4101: 'clubs': unreferenced local variable
+  Program Project 2.vcxproj -> C:\Users\233722\Desktop\Computer Science Projects\Program Project 2\Debug\Program Project 2.exe
+  Program Project 2.vcxproj -> C:\Users\233722\Desktop\Computer Science Projects\Program Project 2\Debug\Program Project 2.pdb (Partial PDB)

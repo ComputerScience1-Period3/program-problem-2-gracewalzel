@@ -17,13 +17,6 @@ void pause() {
 }
 // Main
 void main() {
-	//Display text
-	int p = 3;
-	cout << "Grace Walzel" << endl;
-	cout << "Period " << 3 << endl;
-	cout << "Hello World!" << endl;
-	pause(); //pauses to see the displayed text
-
 	//Define and Assign your variable(s)
 	int classes;
 	cout << "How many classes a day do you have? \n";
@@ -33,5 +26,5 @@ void main() {
 	cout << "Are you in any clubs (1) or not (0)? \n";
 	double gpa;
 	cout << "What is your GPA (in decimal form)? \n";
-
+	pause(); //pauses to see the displayed text
 }
